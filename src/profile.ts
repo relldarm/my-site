@@ -29,8 +29,8 @@ export const profile = {
    * how classmates find something to say hello about.
    */
   funFacts: [
-    "I love fashion and experimenting with different styles & aesthetics.",
-    "I can do a backflip.",
+    "I have a passion for fashion and love experimenting with different styles and aesthetics.",
+    "I can do a backflip and enjoy learning new skills that push me outside my comfort zone.",
   ],
 
   /** One decision you're proud of, in a sentence. */
