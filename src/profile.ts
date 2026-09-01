@@ -16,7 +16,7 @@
 
 export const profile = {
   /** Your name as you want it to appear everywhere. */
-  displayName: "Darrell Darmawan",
+  displayName: "Darrell Darmawa",
 
   /** Your UD email — must match the one you signed into the course with. */
   email: "ddarm@udel.edu",
