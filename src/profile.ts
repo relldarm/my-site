@@ -52,13 +52,13 @@ export const profile = {
   rosterVisibility: "class" as "class" | "professor-only",
 
   /** A one-line tagline for your home page. Make it yours. */
-  tagline: "Curating & Traversing the lanes of a Decison Services System.",
+  tagline: "Curating & Traversing the knowledge of a Decison Services System, one lane at a time.",
 
   /**
    * A short bio for your home page: two or three sentences, written like
    * a person, not a resume. What are you studying? What do you care about?
    */
-  bio: "I'm a Masters Student at the University of Delaware pursing a degree in Business Analytics & Information Management! I thirve off of human connection and I'm confident in my ability to bridge human and technology relations!",
+  bio: "I'm a master's student at the University of Delaware pursuing a degree in Business Analytics & Information Management. I thrive on meaningful human connection, and I enjoy finding ways to bridge the gap between people and technology through thoughtful, data-driven decision making.",
 
   /**
    * Your GitHub repo URL. The course platform reads this from /api/health to
