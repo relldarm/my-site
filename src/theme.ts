@@ -13,7 +13,7 @@
  * One word from: "regatta" | "dune" | "orchard" | "noir"
  * (Or invent your own: copy a palette below, change the colors, name it.)
  */
-export const paletteChoice = "orchard";
+export const paletteChoice = "noir";
 
 /** ── 2. Pick your font pairing ─────────────────────────────────────────
  * One word from: "editorial" | "geometric" | "classic"
@@ -21,13 +21,13 @@ export const paletteChoice = "orchard";
  *   geometric — modern grotesk headings (tech/startup feel)
  *   classic   — high-contrast serif headings (timeless feel)
  */
-export const fontChoice = "geometric";
+export const fontChoice = "classic";
 
 /** ── 3. (Optional) Override the accent ─────────────────────────────────
  * Set to any CSS color (e.g. "#c2410c" or "rebeccapurple") to replace the
  * palette's accent with your own. Leave as null to use the palette's.
  */
-export const accentOverride: string | null = null;
+export const accentOverride: string | null = "#6fa77a";
 
 // ───────────────────────────────────────────────────────────────────────
 // The palettes. Each is a complete, coherent scheme with accessible
